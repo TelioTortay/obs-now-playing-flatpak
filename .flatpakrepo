@@ -1,9 +1,8 @@
-cat > obs-now-playing.flatpakrepo << 'EOF'
 [Flatpak Repo]
 Title=OBS Now Playing
 Url=https://teliotortay.github.io/obs-now-playing-flatpak/
-Homepage=https://github.com/teliotortay/obs-now-playing
+Homepage=https://github.com/TelioTortay/obs-now-playing
 Comment=Media overlay for OBS Studio
-Description=Beautiful now playing widget for streaming
+Description=Beautiful now playing widget for streaming with OBS
+Icon=https://teliotortay.github.io/obs-now-playing-flatpak/logo.png
 GPGKey=
-EOF
